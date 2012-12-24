@@ -503,8 +503,8 @@
 386:3 Deoxys-S
 413:1 Burmadame-G
 413:2 Burmadame-S
-487:1 Shaymin-S
-492:1 Giratina-O
+487:1 Giratina-O
+492:1 Shaymin-S
 201:1 Unown-B
 201:2 Unown-C
 201:3 Unown-D
